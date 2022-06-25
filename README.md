@@ -1,3 +1,1 @@
-Responsive Tourism Application
-
 
